@@ -1,2 +1,2 @@
 #!/bin/bash
-task o
+task 1
